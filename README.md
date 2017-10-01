@@ -6,6 +6,7 @@
 ## Navigation
 - [Calculator](Calculator/)
 - [Clock](Clock/)
+- [feedr](feedr/)
 - [Quote-Generator](Quote-Generator/)
 - [WeatherApp](WeatherApp/)
 
